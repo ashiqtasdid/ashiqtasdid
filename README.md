@@ -1,7 +1,7 @@
 ### Hi there, I'm Md. Ashiquzzaman Khan - aka [AshiqTasdid][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fashiqthedev.ml)](https://ashiqthedev.ml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ashiq115&screen_name=Ashiq_TasdidYT)
+[![Website](https://img.shields.io/website?label=ashiqthedev.ml&style=for-the-badge&url=https://ashiqthedev.ml)](https://ashiqthedev.ml)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ashiq_TasdidYT?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ashiq115&screen_name=Ashiq_TasdidYT)
 
 ## I'm a Student, Intern, Developer, YouTuber, Gamer and Streamer!!
 

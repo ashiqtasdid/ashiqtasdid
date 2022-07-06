@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, I'm Md. Ashiquzzaman Khan</h1>
 <h3 align="center">CEO, ATD | Developer | YouTuber | Gamer | Streamer | Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqtasdid" alt="ashiqtasdid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqtasdid&theme=dracula" alt="ashiqtasdid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashiq_tasdidyt" target="blank"><img src="https://img.shields.io/twitter/follow/ashiq_tasdidyt?logo=twitter&style=for-the-badge" alt="ashiq_tasdidyt" /></a> </p>
 

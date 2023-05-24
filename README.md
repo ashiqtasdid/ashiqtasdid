@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashiq_tasdidyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiq_tasdidyt" height="30" width="40" /></a>
+<a href="https://twitter.com/TheAshiqTasdid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiq_tasdidyt" height="30" width="40" /></a>
 <a href="https://fb.com/ashiq.tasdid.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiq.tasdid.1" height="30" width="40" /></a>
-<a href="https://instagram.com/ashiq_tasdid_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashiq_tasdid_yt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashiq tasdid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashiq tasdid" height="30" width="40" /></a>
+<a href="https://instagram.com/ashiqtasdid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashiq_tasdid_yt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ashiqtasdid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashiq tasdid" height="30" width="40" /></a>
 <a href="https://discord.gg/kzSqqyM4Fg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kzSqqyM4Fg" height="30" width="40" /></a>
 </p>
 

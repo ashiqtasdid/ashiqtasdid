@@ -1,6 +1,6 @@
 ## **Welcome!!!**
 
-I'm **Md. Ashiquzzaman Khan**, people call me **Ashiq Tasdid**.I'm an **Entrepreneur** | **Developer** | **Gamer** | **Student** | **Tech Enthusiast**.
+I'm **Md. Ashiquzzaman Khan**, people call me **Ashiq Tasdid**.I'm an **Entrepreneur** | **Developer** | **Gamer** | **Student** | **Tech Enthusiast** | **CTO & FOUNDER at Pegasus Labs**.
 ## Connect With Me
 
 [![Linkedin Badge](https://img.shields.io/badge/Ashiqtasdid-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiqtasdid/)
